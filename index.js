@@ -39,5 +39,6 @@ module.exports = function({apikey, statusCode, emitter}) {
         }
       });
     }
+    next();
   };
 };

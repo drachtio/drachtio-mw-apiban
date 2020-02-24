@@ -1,6 +1,6 @@
 {
   "name": "drachtio-mw-apiban",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "drachtio middleware that uses LOD's apiban to reject spammers",
   "main": "app.js",
   "scripts": {
